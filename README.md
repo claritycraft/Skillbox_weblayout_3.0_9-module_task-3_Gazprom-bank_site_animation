@@ -11,7 +11,8 @@ En: Portfolio layout link:
 
 Ru: Ссылка на макет c портфолио: figma.com/design/sJi9bbfiyCpN4gWdxDcJA0/Газпромбанк---Анимации-FWEB-3383?node-id=1-3
 
-## Technologies Used
+## En:  Technologies Used
+## Ru: Используемые технологии
 
 - HTML5
 - CSS3
@@ -19,9 +20,13 @@ Ru: Ссылка на макет c портфолио: figma.com/design/sJi9bbfi
 - Media Queries
 - Figma (design mockup)
 
-## License
+## En: License
 
 This project is for educational purposes only. Do not copy or redistribute without permission.
+
+## Ru: Лицензия
+
+Этот проект предназначен исключительно для образовательных целей. Не копируйте и не распространяйте без разрешения.
 
 ## Gazprom site 
 
