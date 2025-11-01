@@ -1,6 +1,9 @@
 # En: Skillbox_weblayout_3.0_Module-9_task-3_Gazprom-bank_site_animation
 # Ru: Задание 2 из модуля 9 курса Skillbox по веб-верстке (версия 3.0): сайт Газпромбанка с анимацией.
 
+### Пожалуйста, поставьте звезду ⭐ если этот проект Вас заинтересовал
+### Please give this project a star ⭐ if you found it interesting.
+
 En: *Uncompleted coursework for the Skillbox Web Development 3.0 course, Module 9, Assignment 3: Single-page layout for the Gazprombank site include animation.
 
 Ru: *Не завершённая курсовая работа по курсу Skillbox «Веб-разработка 3.0», модуль 9, задание 3: Одностраничная верстка сайта Газпромбанк с анимацией.
