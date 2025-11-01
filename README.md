@@ -6,6 +6,7 @@ En: *Uncompleted coursework for the Skillbox Web Development 3.0 course, Module 
 Ru: *Не завершённая курсовая работа по курсу Skillbox «Веб-разработка 3.0», модуль 9, задание 3: Одностраничная верстка сайта Газпромбанк с анимацией.
 
 Ru: *Комментарии: cтраница сверстана, анимация работает, но необходимо исправить стили и сделать сборку.
+
 En: *Comments: The page layout is complete, the animation works, but the styles need to be fixed and the build needs to be done
 
 En: Portfolio layout link: 
