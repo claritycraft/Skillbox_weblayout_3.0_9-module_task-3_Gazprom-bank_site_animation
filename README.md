@@ -11,7 +11,9 @@ En: *Comments: The page layout is complete, the animation works, but the styles 
 
 En: Portfolio layout link: 
 
-Ru: Ссылка на макет c портфолио: figma.com/design/sJi9bbfiyCpN4gWdxDcJA0/Газпромбанк---Анимации-FWEB-3383?node-id=1-3
+Ru: Ссылка на макет c портфолио: 
+
+figma.com/design/sJi9bbfiyCpN4gWdxDcJA0/Газпромбанк---Анимации-FWEB-3383?node-id=1-3
 
 ## En:  Technologies Used
 ## Ru: Используемые технологии
